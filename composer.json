@@ -1,0 +1,16 @@
+{
+    "name": "stevecomrie/chase-orbital-payment",
+    "type": "library",
+    "description": "A PHP class to process simple payments on the Chase Paymentech /  Orbital platform. Canada + USA",
+    "keywords": ["PHP","Chase","Orbital","creditcard"],
+    "homepage": "https://www.stevecomrie.ca",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Comrie",
+            "email": "steve@stevecomrie.ca",
+            "homepage": "https://www.stevecomrie.ca",
+            "role": "Developer"
+        }
+    ],
+}
